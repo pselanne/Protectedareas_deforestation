@@ -1,0 +1,15 @@
+Since the Google Earth Engine uses it's own GitHub repository it's more convenient to just link the code here.
+
+Earth engine code for calculating forest loss in each country: https://code.earthengine.google.com/32320c58e71d2cf7f94525d99343fcc4
+
+It should be noted that I have run the code separately each time for each country due to processing restraints, more optimized code might allow for batch processing from a list of countries. Nevertheless if you want to change the country just change the ISO3 code and for different time periods you only need to change the STATUS_YR band in the WDPA polygons so that it dosent include protected areas established after the study period. 
+
+
+Earth Engine code for protected area coverage and expansion: https://code.earthengine.google.com/1eb5e300023ae15b23ed856adade0d0f
+
+
+
+Earth Engine code fo rcounting forest cover inside protected areas: https://code.earthengine.google.com/2127c40cac2227420d142b50d2590d2b
+
+
+
