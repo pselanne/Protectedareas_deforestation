@@ -25,3 +25,6 @@ The datasets used for this analysis are:
 
 
 - Gross Domestic Product (GDP) data: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD
+
+- Purchasing Power Parity (PPP) data: https://data.oecd.org/conversion/purchasing-power-parities-ppp.htm
+
